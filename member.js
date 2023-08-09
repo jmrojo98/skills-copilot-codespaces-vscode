@@ -38,5 +38,5 @@ function skillmember()
         result.value = "34000";
     } else if (skill == "Java" && member == "18") {
         result.value = "36000";
-    } else if (skill == "Java" && member == "19") {
+    } else if (skill == "Java" && member == "19") 
         result
